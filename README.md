@@ -1,2 +1,10 @@
-# ZoneCommands
-Плагин не позволяет использовать определенные команды в DeadZone/SafeZone (Unturned 3 Plugin)
+# ZoneCommands (Unturned 3 Plugin)
+Плагин позволяет блокировать использование любых команд в SafeZone/DeadZone.
+
+Команды для работы с плагином:
+Отсутствуют.
+
+Permissions:
+Настройка в Кфг.
+
+Пример конфига: https://pastebin.com/qCq0DDc0
